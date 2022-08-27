@@ -1,0 +1,4 @@
+wpu resolusi
+- konsisten dalam membuat pemograman php
+- membuat pllatform untuk menggelolaan website
+- membuat forum diskusi
